@@ -4,7 +4,33 @@ This project is a result of the Assignment in IIP subject taught in UG 4 year at
 
 ## Motivation
 * Humans interact with each other on many levels. Communication is one of the key feature which separates humans from other species.
- 
+* Some disabled people are not able to interact using the common way, i.e, through words. Dumb people are not able to speak and deaf people are not able to understand us.
+
+* To bridge this gap in communication, humans have developed gestures to interact with such disabled people.
+
+
+* For such people to use computer-operated devices to help them communicate in a better way with rest, we have come up with an idea for training the system to understand gestures. This can also be used by us in other areas to improve user experience.
+
+## Application 
+The application of such a tool can be endless. Some of such applications are:
+
+
+* Communication ease for the physically challenged.
+
+* Improved user experience for computers.
+
+* New technologies in the field of televisions and other electronic devices.
+
+## Proposed System
+
+* We initialised with a self-made dataset of images which contained six classes. These classes represented the six numbers, from zero to five. The dataset contains binary images of hand gestures for these numbers.
+
+* We tried some basic machine learning algorithms like Logistic Regression, Decision Trees and SVM for prediction but upon testing , the accuracy count was not as good as expected.
+
+* As this could be termed as a computer vision task, we thought of trying out deep learning, using a basic CNN model. This gave us some pretty good results and we thought of continuing with this model.
+
+![alt text](https://ibb.co/G2QDf3B)
+
 
 ## Getting Started
 
