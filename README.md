@@ -29,8 +29,7 @@ The application of such a tool can be endless. Some of such applications are:
 
 * As this could be termed as a computer vision task, we thought of trying out deep learning, using a basic CNN model. This gave us some pretty good results and we thought of continuing with this model.
 
-![alt text](https://ibb.co/G2QDf3B)
-
+![abc](https://user-images.githubusercontent.com/5564730/51240024-e17c6b00-19a0-11e9-9a8b-12dbbb8de206.jpg)
 
 ## Getting Started
 
