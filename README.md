@@ -1,6 +1,6 @@
 # Hand Gesture Recogination
 
-This project is a result of the Assignment in IIP subject taught in UG 4 year at LNMIIT where the main aim is to create a robust model which can solve a important problem using computer vision
+This project is aimed to create a robust model which can solve a important problem using computer vision
 
 ## Motivation
 * Humans interact with each other on many levels. Communication is one of the key feature which separates humans from other species.
