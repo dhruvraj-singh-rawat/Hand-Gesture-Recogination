@@ -1,4 +1,4 @@
-# Hand Gesture Recogination
+# Hand Gesture Recognition
 
 This project is aimed to create a robust model which can solve a important problem using computer vision
 
